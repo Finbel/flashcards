@@ -1,0 +1,418 @@
+{
+  "name": "Eldar units",
+  "image": "https://i.redd.it/sdqocp1zwh981.jpg",
+  "cards": [
+    {
+      "question": "What is the movement (M) of Guardian Defender?",
+      "answer": "7\""
+    },
+    {
+      "question": "What is the toughness (T) of Guardian Defender?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the save (Sv) of Guardian Defender?",
+      "answer": "4+"
+    },
+    {
+      "question": "What is the wounds (W) of Guardian Defender?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the leadership (Ld) of Guardian Defender?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control (OC) of Guardian Defender?",
+      "answer": "2"
+    },
+    {
+      "question": "What is the movement (M) of Heavy Weapon Platform?",
+      "answer": "7\""
+    },
+    {
+      "question": "What is the toughness (T) of Heavy Weapon Platform?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the save (Sv) of Heavy Weapon Platform?",
+      "answer": "4+"
+    },
+    {
+      "question": "What is the wounds (W) of Heavy Weapon Platform?",
+      "answer": "2"
+    },
+    {
+      "question": "What is the leadership (Ld) of Heavy Weapon Platform?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control (OC) of Heavy Weapon Platform?",
+      "answer": "0"
+    },
+    {
+      "question": "What is the movement (M) of Fire Dragon?",
+      "answer": "7\""
+    },
+    {
+      "question": "What is the toughness (T) of Fire Dragon?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the save (Sv) of Fire Dragon?",
+      "answer": "3+"
+    },
+    {
+      "question": "What is the wounds (W) of Fire Dragon?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the leadership (Ld) of Fire Dragon?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control (OC) of Fire Dragon?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the invulnerable save of Fire Dragon?",
+      "answer": "5+"
+    },
+    {
+      "question": "What is the movement (M) of Fire Dragon Exarch?",
+      "answer": "7\""
+    },
+    {
+      "question": "What is the toughness (T) of Fire Dragon Exarch?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the save (Sv) of Fire Dragon Exarch?",
+      "answer": "3+"
+    },
+    {
+      "question": "What is the wounds (W) of Fire Dragon Exarch?",
+      "answer": "2"
+    },
+    {
+      "question": "What is the leadership (Ld) of Fire Dragon Exarch?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control (OC) of Fire Dragon Exarch?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the invulnerable save of Fire Dragon Exarch?",
+      "answer": "5+"
+    },
+    {
+      "question": "What is the movement of the Falcon?",
+      "answer": "14\""
+    },
+    {
+      "question": "What is the toughness of the Falcon?",
+      "answer": "9"
+    },
+    {
+      "question": "What is the save of the Falcon?",
+      "answer": "3+"
+    },
+    {
+      "question": "How many wounds does the Falcon have?",
+      "answer": "12"
+    },
+    {
+      "question": "What is the leadership of the Falcon?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control of the Falcon?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the movement of the Wraithguard?",
+      "answer": "6\""
+    },
+    {
+      "question": "What is the toughness of the Wraithguard?",
+      "answer": "7"
+    },
+    {
+      "question": "What is the save of the Wraithguard?",
+      "answer": "2+"
+    },
+    {
+      "question": "How many wounds does the Wraithguard have?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the leadership of the Wraithguard?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control of the Wraithguard?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the movement of the Autarch Wayleaper?",
+      "answer": "14\""
+    },
+    {
+      "question": "What is the toughness of the Autarch Wayleaper?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the save of the Autarch Wayleaper?",
+      "answer": "3+"
+    },
+    {
+      "question": "How many wounds does the Autarch Wayleaper have?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the leadership of the Autarch Wayleaper?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control of the Autarch Wayleaper?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the invulnerable save of the Autarch Wayleaper?",
+      "answer": "4+"
+    },
+    {
+      "question": "What is the movement of Eldrad Ulthran?",
+      "answer": "7\""
+    },
+    {
+      "question": "What is the toughness of Eldrad Ulthran?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the save of Eldrad Ulthran?",
+      "answer": "6+"
+    },
+    {
+      "question": "How many wounds does Eldrad Ulthran have?",
+      "answer": "5"
+    },
+    {
+      "question": "What is the leadership of Eldrad Ulthran?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control of Eldrad Ulthran?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the invulnerable save of Eldrad Ulthran?",
+      "answer": "4+"
+    },
+    {
+      "question": "What is the movement of the Troupe Master?",
+      "answer": "8\""
+    },
+    {
+      "question": "What is the toughness of the Troupe Master?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the save of the Troupe Master?",
+      "answer": "6+"
+    },
+    {
+      "question": "How many wounds does the Troupe Master have?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the leadership of the Troupe Master?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control of the Troupe Master?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the invulnerable save of the Troupe Master?",
+      "answer": "4+"
+    },
+    {
+      "question": "What is the movement of the Troupe?",
+      "answer": "8\""
+    },
+    {
+      "question": "What is the toughness of the Troupe?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the save of the Troupe?",
+      "answer": "6+"
+    },
+    {
+      "question": "How many wounds does the Troupe have?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the leadership of the Troupe?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control of the Troupe?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the invulnerable save of the Troupe?",
+      "answer": "4+"
+    },
+    {
+      "question": "What is the movement of the Starweaver?",
+      "answer": "14\""
+    },
+    {
+      "question": "What is the toughness of the Starweaver?",
+      "answer": "6"
+    },
+    {
+      "question": "What is the save of the Starweaver?",
+      "answer": "4+"
+    },
+    {
+      "question": "How many wounds does the Starweaver have?",
+      "answer": "6"
+    },
+    {
+      "question": "What is the leadership of the Starweaver?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control of the Starweaver?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the invulnerable save of the Starweaver?",
+      "answer": "4+"
+    },
+    {
+      "question": "What is the movement of the Swooping Hawk?",
+      "answer": "14\""
+    },
+    {
+      "question": "What is the toughness of the Swooping Hawk?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the save of the Swooping Hawk?",
+      "answer": "4+"
+    },
+    {
+      "question": "How many wounds does the Swooping Hawk have?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the leadership of the Swooping Hawk?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control of the Swooping Hawk?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the invulnerable save of the Swooping Hawk?",
+      "answer": "5+"
+    },
+    {
+      "question": "What is the movement of the Swooping Hawk Exarch?",
+      "answer": "14\""
+    },
+    {
+      "question": "What is the toughness of the Swooping Hawk Exarch?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the save of the Swooping Hawk Exarch?",
+      "answer": "4+"
+    },
+    {
+      "question": "How many wounds does the Swooping Hawk Exarch have?",
+      "answer": "2"
+    },
+    {
+      "question": "What is the leadership of the Swooping Hawk Exarch?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control of the Swooping Hawk Exarch?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the invulnerable save of the Swooping Hawk Exarch?",
+      "answer": "5+"
+    },
+    {
+      "question": "What is the movement of the Warp Spider?",
+      "answer": "12\""
+    },
+    {
+      "question": "What is the toughness of the Warp Spider?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the save of the Warp Spider?",
+      "answer": "3+"
+    },
+    {
+      "question": "How many wounds does the Warp Spider have?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the leadership of the Warp Spider?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control of the Warp Spider?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the base size of the Warp Spider?",
+      "answer": "Ø25mm"
+    },
+    {
+      "question": "What is the invulnerable save of the Warp Spider?",
+      "answer": "5+"
+    },
+    {
+      "question": "What is the movement of the Warp Spider Exarch?",
+      "answer": "12\""
+    },
+    {
+      "question": "What is the toughness of the Warp Spider Exarch?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the save of the Warp Spider Exarch?",
+      "answer": "3+"
+    },
+    {
+      "question": "How many wounds does the Warp Spider Exarch have?",
+      "answer": "2"
+    },
+    {
+      "question": "What is the leadership of the Warp Spider Exarch?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control of the Warp Spider Exarch?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the base size of the Warp Spider Exarch?",
+      "answer": "Ø25mm"
+    },
+    {
+      "question": "What is the invulnerable save of the Warp Spider Exarch?",
+      "answer": "5+"
+    }
+  ]
+}

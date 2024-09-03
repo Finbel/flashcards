@@ -1,0 +1,46 @@
+{
+  "name": "Eldar units",
+  "image": "https://i.redd.it/sdqocp1zwh981.jpg",
+  "cards": [
+    {
+      "question": "What is the name of the Eldar's basic infantry unit?",
+      "answer": "Guardian"
+    },
+    {
+      "question": "What is the name of the Eldar's basic vehicle?",
+      "answer": "Vyper"
+    },
+    {
+      "question": "What is the name of the Eldar's basic tank?",
+      "answer": "Falcon"
+    },
+    {
+      "question": "What is the name of the Eldar's basic walker?",
+      "answer": "Wraithlord"
+    },
+    {
+      "question": "What is the name of the Eldar's basic jet?",
+      "answer": "Nightwing"
+    },
+    {
+      "question": "What is the name of the Eldar's basic titan?",
+      "answer": "Phantom Titan"
+    },
+    {
+      "question": "What is the name of the Eldar's basic super-heavy tank?",
+      "answer": "Scorpion"
+    },
+    {
+      "question": "What is the name of the Eldar's basic super-heavy walker?",
+      "answer": "Revenant Titan"
+    },
+    {
+      "question": "What is the name of the Eldar's basic super-heavy jet?",
+      "answer": "Phoenix"
+    },
+    {
+      "question": "What is the name of the Eldar's basic super-heavy titan?",
+      "answer": "Warlock Titan"
+    }
+  ]
+}

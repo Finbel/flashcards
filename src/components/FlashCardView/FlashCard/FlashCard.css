@@ -1,0 +1,77 @@
+.card-container {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  max-width: 400px;
+  height: 280px; /* Fixed height for the card */
+  width: 350px; /* Fixed width for the card */
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+}
+
+.card-question {
+  font-size: 18px;
+  font-weight: bold;
+  min-height: 80px;
+  border-bottom: 1px solid #ccc;
+}
+
+.card-divider {
+  border-top: 1px solid #ccc;
+  margin: 16px 0;
+}
+
+.answer-container {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-answer {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.card-buttons {
+  margin-top: 16px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+.card-button {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.card-button-0 {
+  background-color: #ccc; /* Grey for Not Answered */
+}
+
+.card-button-1 {
+  background-color: #ff6b6b; /* Red for Very Incorrect */
+}
+
+.card-button-2 {
+  background-color: #ffcc00; /* Yellow for Incorrect */
+}
+
+.card-button-3 {
+  background-color: #4dbd74; /* Green for Correct */
+}
+
+.card-button-4 {
+  background-color: #1e90ff; /* Blue for Very Correct */
+}
