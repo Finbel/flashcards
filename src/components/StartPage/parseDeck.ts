@@ -17,6 +17,9 @@ export const parseDeck = (deckInput: unknown): Deck => {
   return {
     ...deck,
     id: uuidv4(),
-    cards: deck.cards.map(createCard),
+    cards: deck.cards.map(createCard).sort(() => {
+      // shuffle
+      return Math.random() - 0.5;
+    }),
   };
 };

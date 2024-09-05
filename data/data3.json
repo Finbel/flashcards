@@ -1,0 +1,218 @@
+{
+  "name": "Dark Angels units",
+  "image": "https://i.redd.it/1j9987yrkowa1.jpg",
+  "cards": [
+    {
+      "question": "What is the base size of Azrael?",
+      "answer": "50mm"
+    },
+    {
+      "question": "What is the movement (M) of Azrael?",
+      "answer": "6\""
+    },
+    {
+      "question": "What is the toughness (T) of Azrael?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the save (Sv) of Azrael?",
+      "answer": "2+"
+    },
+    {
+      "question": "What is the wounds (W) of Azrael?",
+      "answer": "6"
+    },
+    {
+      "question": "What is the leadership (Ld) of Azrael?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control (OC) of Azrael?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the invulnerable save of Azrael?",
+      "answer": "4+"
+    },
+    {
+      "question": "What is the base size of Captain in Terminator Armour?",
+      "answer": "50mm"
+    },
+    {
+      "question": "What is the movement (M) of Captain in Terminator Armour?",
+      "answer": "5\""
+    },
+    {
+      "question": "What is the toughness (T) of Captain in Terminator Armour?",
+      "answer": "5"
+    },
+    {
+      "question": "What is the save (Sv) of Captain in Terminator Armour?",
+      "answer": "2+"
+    },
+    {
+      "question": "What is the wounds (W) of Captain in Terminator Armour?",
+      "answer": "6"
+    },
+    {
+      "question": "What is the leadership (Ld) of Captain in Terminator Armour?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control (OC) of Captain in Terminator Armour?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the invulnerable save of Captain in Terminator Armour?",
+      "answer": "4+"
+    },
+    {
+      "question": "What is the base size of Lieutenant?",
+      "answer": "40mm"
+    },
+    {
+      "question": "What is the movement (M) of Lieutenant?",
+      "answer": "6\""
+    },
+    {
+      "question": "What is the toughness (T) of Lieutenant?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the save (Sv) of Lieutenant?",
+      "answer": "3+"
+    },
+    {
+      "question": "What is the wounds (W) of Lieutenant?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the leadership (Ld) of Lieutenant?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control (OC) of Lieutenant?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the base size of Intercessor Squad?",
+      "answer": "32mm"
+    },
+    {
+      "question": "What is the movement (M) of Intercessor Squad?",
+      "answer": "6\""
+    },
+    {
+      "question": "What is the toughness (T) of Intercessor Squad?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the save (Sv) of Intercessor Squad?",
+      "answer": "3+"
+    },
+    {
+      "question": "What is the wounds (W) of Intercessor Squad?",
+      "answer": "2"
+    },
+    {
+      "question": "What is the leadership (Ld) of Intercessor Squad?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control (OC) of Intercessor Squad?",
+      "answer": "2"
+    },
+    {
+      "question": "What is the base size of Deathwing Knights?",
+      "answer": "40mm"
+    },
+    {
+      "question": "What is the movement (M) of Deathwing Knights?",
+      "answer": "5\""
+    },
+    {
+      "question": "What is the toughness (T) of Deathwing Knights?",
+      "answer": "5"
+    },
+    {
+      "question": "What is the save (Sv) of Deathwing Knights?",
+      "answer": "2+"
+    },
+    {
+      "question": "What is the wounds (W) of Deathwing Knights?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the leadership (Ld) of Deathwing Knights?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control (OC) of Deathwing Knights?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the invulnerable save of Deathwing Knights?",
+      "answer": "4+"
+    },
+    {
+      "question": "What is the base size of Deathwing Terminator Squad?",
+      "answer": "40mm"
+    },
+    {
+      "question": "What is the movement (M) of Deathwing Terminator Squad?",
+      "answer": "5\""
+    },
+    {
+      "question": "What is the toughness (T) of Deathwing Terminator Squad?",
+      "answer": "5"
+    },
+    {
+      "question": "What is the save (Sv) of Deathwing Terminator Squad?",
+      "answer": "2+"
+    },
+    {
+      "question": "What is the wounds (W) of Deathwing Terminator Squad?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the leadership (Ld) of Deathwing Terminator Squad?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control (OC) of Deathwing Terminator Squad?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the invulnerable save of Deathwing Terminator Squad?",
+      "answer": "4+"
+    },
+    {
+      "question": "What is the base size of Hellblaster Squad?",
+      "answer": "32mm"
+    },
+    {
+      "question": "What is the movement (M) of Hellblaster Squad?",
+      "answer": "6\""
+    },
+    {
+      "question": "What is the toughness (T) of Hellblaster Squad?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the save (Sv) of Hellblaster Squad?",
+      "answer": "3+"
+    },
+    {
+      "question": "What is the wounds (W) of Hellblaster Squad?",
+      "answer": "2"
+    },
+    {
+      "question": "What is the leadership (Ld) of Hellblaster Squad?",
+      "answer": "6+"
+    },
+    {
+      "question": "What is the objective control (OC) of Hellblaster Squad?",
+      "answer": "1"
+    }
+  ]
+}
