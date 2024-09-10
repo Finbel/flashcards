@@ -14,6 +14,7 @@ export const cardSchema = protoCardSchema.extend({
   correctCount: z.number(),
   lastReviewDate: z.string(),
   lastRating: z.number(),
+  archived: z.boolean().nullish(),
 });
 
 // Define the TypeScript type for the parsed data

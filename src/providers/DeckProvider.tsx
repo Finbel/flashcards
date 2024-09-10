@@ -13,6 +13,7 @@ type Context = {
   addDeck: (deck: Deck) => void;
   deleteDeck: (id: string) => void;
   saveCard: (deckId: string, card: Card) => void;
+  resetDeck: (id: string) => void;
 };
 
 // Create the context with a default value (which can be null)
@@ -44,6 +45,27 @@ export const DecksProvider: React.FC<{ children: React.ReactNode }> = ({
     );
   };
 
+  const resetDeck = (id: string) => {
+    const newDecks = decks.map((deck) => {
+      if (deck.id === id) {
+        return {
+          ...deck,
+          cards: deck.cards.map((card) => ({
+            ...card,
+            reviewCount: 0,
+            correctCount: 0,
+            lastReviewDate: new Date().toISOString(),
+            lastRating: -1,
+          })),
+        };
+      }
+      return deck;
+    });
+
+    setDecks(newDecks);
+    localStorage.setItem("decks", JSON.stringify(newDecks));
+  };
+
   const saveCard = (deckId: string, updatedCard: Card) => {
     const newDecks = decks.map((deck) => {
       if (deck.id === deckId) {
@@ -62,7 +84,9 @@ export const DecksProvider: React.FC<{ children: React.ReactNode }> = ({
   };
 
   return (
-    <DecksContext.Provider value={{ decks, addDeck, deleteDeck, saveCard }}>
+    <DecksContext.Provider
+      value={{ decks, addDeck, deleteDeck, saveCard, resetDeck }}
+    >
       {children}
     </DecksContext.Provider>
   );

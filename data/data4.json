@@ -1,0 +1,558 @@
+{
+  "name": "Eldar Weapons",
+  "image": "https://static.wikia.nocookie.net/warhammer40k/images/3/39/Eldar_Wargear2.png",
+  "cards": [
+    {
+      "question": "What is the range of the Autarch Dragon Fusion Gun?",
+      "answer": "12\""
+    },
+    {
+      "question": "How many attacks does the Autarch Dragon Fusion Gun have?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the ballistic skill for the Autarch Dragon Fusion Gun?",
+      "answer": "2+"
+    },
+    {
+      "question": "What is the strength of the Autarch Dragon Fusion Gun?",
+      "answer": "9"
+    },
+    {
+      "question": "What is the armor penetration of the Autarch Dragon Fusion Gun?",
+      "answer": "-4"
+    },
+    {
+      "question": "What is the damage for the Autarch Dragon Fusion Gun?",
+      "answer": "D6"
+    },
+    {
+      "question": "What are the abilities for the Autarch Dragon Fusion Gun?",
+      "answer": "Assault and Melta 3"
+    },
+    {
+      "question": "What is the range of the Star Glaive?",
+      "answer": "Melee"
+    },
+    {
+      "question": "How many attacks does the Star Glaive have?",
+      "answer": "5"
+    },
+    {
+      "question": "What is the weapon skill for the Star Glaive?",
+      "answer": "3+"
+    },
+    {
+      "question": "What is the strength of the Star Glaive?",
+      "answer": "6"
+    },
+    {
+      "question": "What is the armor penetration of the Star Glaive?",
+      "answer": "-2"
+    },
+    {
+      "question": "What is the damage for the Star Glaive?",
+      "answer": "2"
+    },
+    {
+      "question": "What is the range of the Hawks Talon?",
+      "answer": "24\""
+    },
+    {
+      "question": "How many attacks does the Hawks Talon have?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the ballistic skill for the Hawks Talon?",
+      "answer": "3+"
+    },
+    {
+      "question": "What is the strength of the Hawks Talon?",
+      "answer": "5"
+    },
+    {
+      "question": "What is the armor penetration of the Hawks Talon?",
+      "answer": "0"
+    },
+    {
+      "question": "What is the damage for the Hawks Talon?",
+      "answer": "1"
+    },
+    {
+      "question": "What are the abilities for the Hawks Talon?",
+      "answer": "Assault and Lethal Hits"
+    },
+    {
+      "question": "What is the range of the Lasblaster?",
+      "answer": "24\""
+    },
+    {
+      "question": "How many attacks does the Lasblaster have?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the ballistic skill for the Lasblaster?",
+      "answer": "3+"
+    },
+    {
+      "question": "What is the strength of the Lasblaster?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the armor penetration of the Lasblaster?",
+      "answer": "0"
+    },
+    {
+      "question": "What is the damage for the Lasblaster?",
+      "answer": "1"
+    },
+    {
+      "question": "What are the abilities for the Lasblaster?",
+      "answer": "Assault and Lethal Hits"
+    },
+    {
+      "question": "What is the range of the Swooping Hawks Close Combat Weapon?",
+      "answer": "Melee"
+    },
+    {
+      "question": "How many attacks does the Swooping Hawks Close Combat Weapon have?",
+      "answer": "2"
+    },
+    {
+      "question": "What is the weapon skill for the Swooping Hawks Close Combat Weapon?",
+      "answer": "3+"
+    },
+    {
+      "question": "What is the strength of the Swooping Hawks Close Combat Weapon?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the armor penetration of the Swooping Hawks Close Combat Weapon?",
+      "answer": "0"
+    },
+    {
+      "question": "What is the damage for the Swooping Hawks Close Combat Weapon?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the range of the Shuriken Pistol?",
+      "answer": "12\""
+    },
+    {
+      "question": "How many attacks does the Shuriken Pistol have?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the ballistic skill for the Shuriken Pistol?",
+      "answer": "2+"
+    },
+    {
+      "question": "What is the strength of the Shuriken Pistol?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the armor penetration of the Shuriken Pistol?",
+      "answer": "-1"
+    },
+    {
+      "question": "What is the damage for the Shuriken Pistol?",
+      "answer": "1"
+    },
+    {
+      "question": "What are the abilities for the Shuriken Pistol?",
+      "answer": "Assault and Pistol"
+    },
+    {
+      "question": "What is the range of Mind War?",
+      "answer": "18\""
+    },
+    {
+      "question": "How many attacks does Mind War have?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the ballistic skill for Mind War?",
+      "answer": "2+"
+    },
+    {
+      "question": "What is the strength of Mind War?",
+      "answer": "5"
+    },
+    {
+      "question": "What is the armor penetration of Mind War?",
+      "answer": "-2"
+    },
+    {
+      "question": "What is the damage for Mind War?",
+      "answer": "D6"
+    },
+    {
+      "question": "What are the abilities for Mind War?",
+      "answer": "Anti-Character 4+, Precision, and Psychic"
+    },
+    {
+      "question": "What is the range of The Staff of Ulthamar and Witchblade?",
+      "answer": "Melee"
+    },
+    {
+      "question": "How many attacks does The Staff of Ulthamar and Witchblade have?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the weapon skill for The Staff of Ulthamar and Witchblade?",
+      "answer": "2+"
+    },
+    {
+      "question": "What is the strength of The Staff of Ulthamar and Witchblade?",
+      "answer": "5"
+    },
+    {
+      "question": "What is the armor penetration of The Staff of Ulthamar and Witchblade?",
+      "answer": "-1"
+    },
+    {
+      "question": "What is the damage for The Staff of Ulthamar and Witchblade?",
+      "answer": "2"
+    },
+    {
+      "question": "What are the abilities for The Staff of Ulthamar and Witchblade?",
+      "answer": "Anti-Infantry 2+ and Psychic"
+    },
+    {
+      "question": "What is the range of the Ranger Long Rifle?",
+      "answer": "36\""
+    },
+    {
+      "question": "How many attacks does the Ranger Long Rifle have?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the ballistic skill for the Ranger Long Rifle?",
+      "answer": "3+"
+    },
+    {
+      "question": "What is the strength of the Ranger Long Rifle?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the armor penetration of the Ranger Long Rifle?",
+      "answer": "-1"
+    },
+    {
+      "question": "What is the damage for the Ranger Long Rifle?",
+      "answer": "2"
+    },
+    {
+      "question": "What are the abilities for the Ranger Long Rifle?",
+      "answer": "Heavy and Precision"
+    },
+    {
+      "question": "What is the range of the Rangers Close Combat Weapon?",
+      "answer": "Melee"
+    },
+    {
+      "question": "How many attacks does the Rangers Close Combat Weapon have?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the weapon skill for the Rangers Close Combat Weapon?",
+      "answer": "3+"
+    },
+    {
+      "question": "What is the strength of the Rangers Close Combat Weapon?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the armor penetration of the Rangers Close Combat Weapon?",
+      "answer": "0"
+    },
+    {
+      "question": "What is the damage for the Rangers Close Combat Weapon?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the range of the Harlequins Special Weapon?",
+      "answer": "Melee"
+    },
+    {
+      "question": "How many attacks does the Harlequins Special Weapon have?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the weapon skill for the Harlequins Special Weapon?",
+      "answer": "3+"
+    },
+    {
+      "question": "What is the strength of the Harlequins Special Weapon?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the armor penetration of the Harlequins Special Weapon?",
+      "answer": "-1"
+    },
+    {
+      "question": "What is the damage for the Harlequins Special Weapon?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the range of the Harlequins Shuriken Pistol?",
+      "answer": "12\""
+    },
+    {
+      "question": "How many attacks does the Harlequins Shuriken Pistol have?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the ballistic skill for the Harlequins Shuriken Pistol?",
+      "answer": "3+"
+    },
+    {
+      "question": "What is the strength of the Harlequins Shuriken Pistol?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the armor penetration of the Harlequins Shuriken Pistol?",
+      "answer": "-1"
+    },
+    {
+      "question": "What is the damage for the Harlequins Shuriken Pistol?",
+      "answer": "1"
+    },
+    {
+      "question": "What are the abilities for the Harlequins Shuriken Pistol?",
+      "answer": "Assault and Pistol"
+    },
+    {
+      "question": "What is the range of the Death Spinner?",
+      "answer": "12\""
+    },
+    {
+      "question": "How many attacks does the Death Spinner have?",
+      "answer": "D6"
+    },
+    {
+      "question": "What is the ballistic skill for the Death Spinner?",
+      "answer": "N/A"
+    },
+    {
+      "question": "What is the strength of the Death Spinner?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the armor penetration of the Death Spinner?",
+      "answer": "0"
+    },
+    {
+      "question": "What is the damage for the Death Spinner?",
+      "answer": "1"
+    },
+    {
+      "question": "What are the abilities for the Death Spinner?",
+      "answer": "Devastating Wounds and Torrent"
+    },
+    {
+      "question": "What is the range of the Warp Spiders Close Combat Weapons?",
+      "answer": "Melee"
+    },
+    {
+      "question": "How many attacks do the Warp Spiders Close Combat Weapons have?",
+      "answer": "2"
+    },
+    {
+      "question": "What is the weapon skill for the Warp Spiders Close Combat Weapons?",
+      "answer": "3+"
+    },
+    {
+      "question": "What is the strength of the Warp Spiders Close Combat Weapons?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the armor penetration of the Warp Spiders Close Combat Weapons?",
+      "answer": "0"
+    },
+    {
+      "question": "What is the damage for the Warp Spiders Close Combat Weapons?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the range of the Powerblades?",
+      "answer": "Melee"
+    },
+    {
+      "question": "How many attacks do the Powerblades have?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the weapon skill for the Powerblades?",
+      "answer": "3+"
+    },
+    {
+      "question": "What is the strength of the Powerblades?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the armor penetration of the Powerblades?",
+      "answer": "-2"
+    },
+    {
+      "question": "What is the damage for the Powerblades?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the range of the Dragon Fusion Gun?",
+      "answer": "12\""
+    },
+    {
+      "question": "How many attacks does the Dragon Fusion Gun have?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the ballistic skill for the Dragon Fusion Gun?",
+      "answer": "3+"
+    },
+    {
+      "question": "What is the strength of the Dragon Fusion Gun?",
+      "answer": "9"
+    },
+    {
+      "question": "What is the armor penetration of the Dragon Fusion Gun?",
+      "answer": "-4"
+    },
+    {
+      "question": "What is the damage for the Dragon Fusion Gun?",
+      "answer": "D6"
+    },
+    {
+      "question": "What are the abilities for the Dragon Fusion Gun?",
+      "answer": "Assault and Melta 3"
+    },
+    {
+      "question": "What is the range of the Firepike?",
+      "answer": "18\""
+    },
+    {
+      "question": "How many attacks does the Firepike have?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the ballistic skill for the Firepike?",
+      "answer": "3+"
+    },
+    {
+      "question": "What is the strength of the Firepike?",
+      "answer": "12"
+    },
+    {
+      "question": "What is the armor penetration of the Firepike?",
+      "answer": "-4"
+    },
+    {
+      "question": "What is the damage for the Firepike?",
+      "answer": "D6"
+    },
+    {
+      "question": "What are the abilities for the Firepike?",
+      "answer": "Melta 3"
+    },
+    {
+      "question": "What is the range of the Fire Dragon Close Combat Weapons?",
+      "answer": "Melee"
+    },
+    {
+      "question": "How many attacks do the Fire Dragon Close Combat Weapons have?",
+      "answer": "2"
+    },
+    {
+      "question": "What is the weapon skill for the Fire Dragon Close Combat Weapons?",
+      "answer": "3+"
+    },
+    {
+      "question": "What is the strength of the Fire Dragon Close Combat Weapons?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the armor penetration of the Fire Dragon Close Combat Weapons?",
+      "answer": "0"
+    },
+    {
+      "question": "What is the damage for the Fire Dragon Close Combat Weapons?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the range of the Shuriken Catapult?",
+      "answer": "18\""
+    },
+    {
+      "question": "How many attacks does the Shuriken Catapult have?",
+      "answer": "2"
+    },
+    {
+      "question": "What is the ballistic skill for the Shuriken Catapult?",
+      "answer": "3+"
+    },
+    {
+      "question": "What is the strength of the Shuriken Catapult?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the armor penetration of the Shuriken Catapult?",
+      "answer": "-1"
+    },
+    {
+      "question": "What is the damage for the Shuriken Catapult?",
+      "answer": "1"
+    },
+    {
+      "question": "What are the abilities for the Shuriken Catapult?",
+      "answer": "Assault"
+    },
+    {
+      "question": "What is the range of the Bright Lance?",
+      "answer": "36\""
+    },
+    {
+      "question": "How many attacks does the Bright Lance have?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the ballistic skill for the Bright Lance?",
+      "answer": "3+"
+    },
+    {
+      "question": "What is the strength of the Bright Lance?",
+      "answer": "12"
+    },
+    {
+      "question": "What is the armor penetration of the Bright Lance?",
+      "answer": "-3"
+    },
+    {
+      "question": "What is the damage for the Bright Lance?",
+      "answer": "D6+2"
+    },
+    {
+      "question": "What is the range of the Guardian Defender Close Combat Weapons?",
+      "answer": "Melee"
+    },
+    {
+      "question": "How many attacks do the Guardian Defender Close Combat Weapons have?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the weapon skill for the Guardian Defender Close Combat Weapons?",
+      "answer": "3+"
+    },
+    {
+      "question": "What is the strength of the Guardian Defender Close Combat Weapons?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the armor penetration of the Guardian Defender Close Combat Weapons?",
+      "answer": "0"
+    },
+    {
+      "question": "What is the damage for the Guardian Defender Close Combat Weapons?",
+      "answer": "1"
+    }
+  ]
+}

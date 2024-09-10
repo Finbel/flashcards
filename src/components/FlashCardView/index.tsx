@@ -29,7 +29,9 @@ const FlashCardView: React.FC = () => {
   const [cardsToGuess, setCardsToGuess] = React.useState<Card[]>([]);
   useEffect(() => {
     if (cardsToGuess.length === 0 && selectedDeck) {
-      const cards = getNextCards(selectedDeck.cards);
+      const cards = getNextCards(
+        selectedDeck.cards.filter((card) => !card.archived)
+      );
       if (cards) {
         setCardsToGuess(cards);
       }
@@ -81,16 +83,18 @@ const FlashCardView: React.FC = () => {
             display: "flex",
           }}
         >
-          {selectedDeck.cards.map((card) => (
-            <div
-              key={card.id}
-              style={{
-                height: 10,
-                width: `${100 / selectedDeck.cards.length}%`,
-                backgroundColor: getBackgroundColor(card.lastRating),
-              }}
-            />
-          ))}
+          {selectedDeck.cards
+            .filter((card) => !card.archived)
+            .map((card) => (
+              <div
+                key={card.id}
+                style={{
+                  height: 10,
+                  width: `${100 / selectedDeck.cards.length}%`,
+                  backgroundColor: getBackgroundColor(card.lastRating),
+                }}
+              />
+            ))}
         </div>
         <p>Cards until reset: {cardsToGuess.length}</p>
       </div>
