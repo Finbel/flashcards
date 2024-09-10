@@ -90,7 +90,10 @@ const FlashCardView: React.FC = () => {
                 key={card.id}
                 style={{
                   height: 10,
-                  width: `${100 / selectedDeck.cards.length}%`,
+                  width: `${
+                    100 /
+                    selectedDeck.cards.filter((card) => !card.archived).length
+                  }%`,
                   backgroundColor: getBackgroundColor(card.lastRating),
                 }}
               />
