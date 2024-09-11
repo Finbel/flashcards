@@ -4,7 +4,7 @@ import { useDecks } from "../../providers/DeckProvider";
 import DeckInput from "./DeckInput";
 
 const StartPage: React.FC = () => {
-  const { decks, resetDeck } = useDecks();
+  const { decks, resetDeck, removeDeck } = useDecks();
   const navigate = useNavigate();
 
   return (
@@ -35,10 +35,18 @@ const StartPage: React.FC = () => {
                 cursor: "pointer",
                 display: "flex",
                 gap: 5,
+                flexWrap: "wrap",
                 alignItems: "center",
               }}
             >
-              <div onClick={() => navigate(`/deck/${deck.id}`)}>
+              <div
+                onClick={() => navigate(`/deck/${deck.id}`)}
+                style={{
+                  border: "1px solid gray",
+                  padding: "10px",
+                  borderRadius: 12,
+                }}
+              >
                 <img
                   style={{
                     width: "100px",
@@ -56,10 +64,19 @@ const StartPage: React.FC = () => {
                 </div>
                 <div>progress:{progressString}</div>
               </div>
-              <button onClick={() => resetDeck(deck.id)}>reset deck</button>
-              <button onClick={() => navigate(`/edit/${deck.id}`)}>
-                edit deck
-              </button>
+              <div
+                style={{
+                  display: "flex",
+                  gap: 5,
+                  flexDirection: "column",
+                }}
+              >
+                <button onClick={() => resetDeck(deck.id)}>reset deck</button>
+                <button onClick={() => navigate(`/edit/${deck.id}`)}>
+                  edit deck
+                </button>
+                <button onClick={() => removeDeck(deck.id)}>delete deck</button>
+              </div>
             </li>
           );
         })}
